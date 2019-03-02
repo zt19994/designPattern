@@ -1,0 +1,74 @@
+# Compiled class file
+*.class
+
+#package file
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+*.jar
+
+#kidff3 ignore
+*.orig
+
+#maven ignore
+
+#idea
+.idea/
+/idea/
+/target/
+*.ipr
+*.iml
+*.iws
+
+#temp file
+*.log
+*.cache
+*.diff
+*.patch
+*.tmp
+
+#system ignore
+.DS_Store
+Thumbs.db
+
+ml
+
+*/**/activemq-data/
+*/**/*.~vsd
+.settings/
+.project
+.classpath
+
+bin
+.DS_Store
+*/**/dubbocache/
+node_modules
+build
+~/
+rebel.xml
+
+qqconnect.log
+generatorConfig.xml
+generator.properties
+
+kstore_mobile_site/src/main/resources/com/ningpai/web/config/log4j.properties
+kstore_newthird_site/src/main/resources/com/ningpai/web/config/jdbc.properties
+kstore_newthird_site/src/main/resources/com/ningpai/web/config/jdbc.properties
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
