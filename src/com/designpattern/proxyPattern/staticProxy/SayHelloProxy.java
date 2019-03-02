@@ -1,6 +1,8 @@
 package com.designpattern.proxyPattern.staticProxy;
 
 /**
+ * 代理对象
+ *
  * @author zt1994 2019/3/2 16:28
  */
 public class SayHelloProxy implements SayHello {

@@ -18,5 +18,7 @@ https://www.cnblogs.com/zt19994/p/10064113.html
 https://www.cnblogs.com/zt19994/p/10112062.html
 #### 9.中介者模式
 https://www.cnblogs.com/zt19994/p/10143697.html
+#### 10.代理模式
+https://www.cnblogs.com/zt19994/p/10461812.html
 
 
