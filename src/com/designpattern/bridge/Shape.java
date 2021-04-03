@@ -1,4 +1,4 @@
-package com.designpattern.bridgePattern;
+package com.designpattern.bridge;
 
 /**
  * DrawAPI实现的抽象类shape

@@ -1,4 +1,4 @@
-package com.designpattern.bridgePattern;
+package com.designpattern.bridge;
 
 /**
  * 画红圆实现类

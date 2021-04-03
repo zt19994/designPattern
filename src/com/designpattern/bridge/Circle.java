@@ -1,4 +1,4 @@
-package com.designpattern.bridgePattern;
+package com.designpattern.bridge;
 
 /**
  * 实现了 Shape 抽象类的实体类

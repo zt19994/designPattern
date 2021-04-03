@@ -1,4 +1,4 @@
-package com.designpattern.bridgePattern;
+package com.designpattern.bridge;
 
 /**
  * 桥接模式测试类
